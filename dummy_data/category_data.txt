@@ -1,0 +1,29 @@
+Computer & Accessories{
+    Laptop: Dell XPS 15: 15.6-inch 4K UHD touchscreen, Intel Core i7 processor, 16GB RAM, 512GB SSD, NVIDIA GeForce GTX 1650 graphics, Windows 10 Home.
+    Desktop computer: Apple iMac 27-inch: 27-inch Retina 5K display, Intel Core i9 processor, 32GB RAM, 1TB SSD, AMD Radeon Pro 5700 XT graphics, macOS Big Sur.
+    Wireless Mouse: Logitech MX Master 3: Advanced ergonomic design, customizable buttons, Darkfield high precision tracking, Bluetooth and USB-C connectivity, up to 70 days of battery life.
+    tracking, Bluetooth and USB-C connectivity, up to 70 days of battery life.
+    External Hard Drive: Seagate Backup Plus Portable: 2TB storage capacity, USB 3.0 interface, compatible with Windows and Mac, automatic backup software included, sleek metal design.
+}
+
+Mobile Phones & Accessories{
+    Smartphone: iPhone 13 Pro Max: 6.7-inch Super Retina XDR display, A15 Bionic chip, 128GB/256GB/512GB storage options, Triple 12MP camera system with LiDAR scanner, 5G capable, iOS 15.
+    Android Smartphone: Samsung Galaxy S21 Ultra: 6.8-inch Dynamic AMOLED 2X display, Exynos 2100 (Global) / Snapdragon 888 (USA/China) chipset, 12GB/16GB RAM, 128GB/256GB/512GB storage options, Quad 108MP camera system, 5G capable, Android 12.
+    Wireless Earbuds: Apple AirPods Pro: Active Noise Cancellation, Transparency mode, customizable fit with three sizes of silicone tips, Adaptive EQ, sweat and water-resistant, up to 4.5 hours of listening time on one charge.
+    Power Bank: Anker PowerCore 26800mAh: High capacity portable charger, three USB ports, PowerIQ and VoltageBoost technologies for fast charging, can charge most smartphones multiple times, multiProtect safety system.
+    Phone Case: OtterBox Defender Series: Rugged protection with multiple layers, Drop+ protection, port covers to keep out dust and debris, compatible with wireless charging, available in various colors.
+}
+
+Fashion{
+    Tailored Suit: Slim fit, wool-blend fabric, notch lapel, two-button closure, chest pocket, flap pockets, four-button cuffs, dual back vents, fully lined interior.
+    Casual Shirt: Oxford cloth, button-down collar, regular fit, chest pocket, long sleeves with button cuffs, curved hem, 100% cotton, machine washable.
+    Jeans:501 Original Fit, straight leg, mid-rise waist, button fly, five-pocket styling, Levi's signature logo tab and arcuate stitching on back pockets, 100% cotton denim.
+    Sneakers: Air Force 1 Low, leather upper, perforations for breathability, padded collar and tongue, encapsulated Air-Sole unit for cushioning, rubber outsole with pivot points for traction and durability.
+    Watch:Submariner Date, stainless steel case and bracelet, unidirectional rotating bezel with ceramic insert, black dial with luminous hands and hour markers, date window at 3 o'clock, automatic movement, water-resistant to 300 meters (1,000 feet).
+}
+
+Others{
+    Sandals: Arizona model, Birko-Flor synthetic upper, adjustable straps with metal buckles, contoured cork footbed with arch support, deep heel cup, EVA outsole for lightweight cushioning and shock absorption.
+    Handbag: Speedy 30, Monogram canvas with natural cowhide leather trim, double rolled leather handles, top zip closure with padlock and keys, textile lining, interior pocket, brass hardware, made in France.   
+    Brand: Silk fabric, button-front closure, point collar, long sleeves with button cuffs, relaxed fit, curved hem, single chest pocket, dry clean only.
+}

@@ -34,12 +34,15 @@
             Hello, {{ Auth::check() ? Auth::user()->getName() : "Visitor"}}
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+
             @guest
-            <li><a class="dropdown-item" href="{{ route('login') }}">Login</a></li>
+            <li><a class="dropdown-item" href="{{ route('login') }}">Login/Register</a></li>
             @else
+
             @if (Auth::user()->getRole() == 'admin')
             <li><a class="dropdown-item" href="{{ route('admin.home.index') }}">Go to Admin dashboard</a></li>
             @endif
+
             <li><a class="dropdown-item" href="{{ route('account.product.index') }}">My Account</a></li>
             <li><hr class="dropdown-divider"></li>
             <form id="logout" action="{{ route('logout') }}" method="POST">
